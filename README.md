@@ -4,7 +4,11 @@
 ## Abstract
 
 ## Results
-![image](https://github.com/user-attachments/assets/6deee5e4-6f4b-417a-b610-89f569f610ee)
+### Efficient Frontier
+![image](https://github.com/user-attachments/assets/9967ccdc-7d3f-4d03-9ecd-191d5480ede4)
+
+### Portfolio Optimization
+![image](https://github.com/user-attachments/assets/465f8212-1dee-4da1-8b2c-8cc58440bbfc)
 
 ## Usage
 
