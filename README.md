@@ -23,9 +23,7 @@ This will enable us to evaluate not only whether an LLM selects the correct port
 In addition to portfolio optimization tasks, PortBench will be expanded to cover a broader range of financial theories, including:
 
 - Capital Asset Pricing Model (CAPM)
-
 - Multi-Factor Models (e.g., Fama-French 3-factor model)
-
 - Other classical and modern asset pricing frameworks
 
 Through this expansion, PortBench aims to become a comprehensive benchmark for evaluating the financial reasoning capabilities of large language models (LLMs).
