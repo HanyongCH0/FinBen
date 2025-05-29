@@ -7,6 +7,14 @@ Unlike existing financial benchmarks that primarily focus on natural language un
 It assesses whether language models can perform asset allocation tasks based on financial theory, moving beyond simple language comprehension.
 Users can generate and evaluate customized benchmarks flexibly by combining a variety of variables to suit their specific needs.
 
+PortBench currently supports evaluation on two types of tasks: Efficient Frontier and Portfolio Optimization.
+All evaluations are conducted in a zero-shot setting, without task-specific fine-tuning.
+In Task 1 (Efficient Frontier), the models are evaluated on their ability to distinguish efficient portfolios.
+Gemini and LLaMA outperforms GPT, showing the highest accuracy in identifying portfolios on the efficient frontier.
+GPT, in contrast, demonstrates relatively low performance in this area.
+In Task 2 (Portfolio Optimization), GPT outperforms Gemini and LLaMA, particularly excelling in risk-based objectives such as minimizing volatility or drawdown.
+Gemini shows strength in return-based objectives, while all models struggle with composite objectives like maximizing the Sharpe Ratio, which require balancing both risk and return.
+
 ## Results
 ### Task1: Efficient Frontier
 ![image](https://github.com/user-attachments/assets/9967ccdc-7d3f-4d03-9ecd-191d5480ede4)
