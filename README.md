@@ -17,6 +17,19 @@ GPT, in contrast, demonstrates relatively low performance in this area.
 In Task 2 (Portfolio Optimization), GPT outperforms Gemini and LLaMA, particularly excelling in risk-based objectives such as minimizing volatility or drawdown.
 Gemini shows strength in return-based objectives, while all models struggle with composite objectives like maximizing the Sharpe Ratio, which require balancing both risk and return.
 
+We plan to extend PortBench beyond its current multiple-choice format by introducing open-ended (free-form) and explanatory response tasks.
+This will enable us to evaluate not only whether an LLM selects the correct portfolio, but also why it made that choice—assessing its reasoning and decision-making process.
+
+In addition to portfolio optimization tasks, PortBench will be expanded to cover a broader range of financial theories, including:
+
+- Capital Asset Pricing Model (CAPM)
+
+- Multi-Factor Models (e.g., Fama-French 3-factor model)
+
+- Other classical and modern asset pricing frameworks
+
+Through this expansion, PortBench aims to become a comprehensive benchmark for evaluating the financial reasoning capabilities of large language models (LLMs).
+
 ## Results
 ### Task1: Efficient Frontier
 ![image](https://github.com/user-attachments/assets/9967ccdc-7d3f-4d03-9ecd-191d5480ede4)
