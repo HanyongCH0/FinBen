@@ -4,10 +4,10 @@
 ## Abstract
 
 ## Results
-### Efficient Frontier
+### Task1: Efficient Frontier
 ![image](https://github.com/user-attachments/assets/9967ccdc-7d3f-4d03-9ecd-191d5480ede4)
 
-### Portfolio Optimization
+### Task2: Portfolio Optimization
 ![image](https://github.com/user-attachments/assets/465f8212-1dee-4da1-8b2c-8cc58440bbfc)
 
 ## Usage
