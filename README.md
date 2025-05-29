@@ -9,9 +9,11 @@ Users can generate and evaluate customized benchmarks flexibly by combining a va
 
 PortBench currently supports evaluation on two types of tasks: Efficient Frontier and Portfolio Optimization.
 All evaluations are conducted in a zero-shot setting, without task-specific fine-tuning.
+
 In Task 1 (Efficient Frontier), the models are evaluated on their ability to distinguish efficient portfolios.
 Gemini and LLaMA outperforms GPT, showing the highest accuracy in identifying portfolios on the efficient frontier.
 GPT, in contrast, demonstrates relatively low performance in this area.
+
 In Task 2 (Portfolio Optimization), GPT outperforms Gemini and LLaMA, particularly excelling in risk-based objectives such as minimizing volatility or drawdown.
 Gemini shows strength in return-based objectives, while all models struggle with composite objectives like maximizing the Sharpe Ratio, which require balancing both risk and return.
 
