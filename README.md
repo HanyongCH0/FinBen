@@ -1,1 +1,1 @@
-# Evaluating-LLMs-Understanding-of-Portfolio-Theory
+# Evaluating LLMs-Understanding of Portfolio Theory
