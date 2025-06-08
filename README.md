@@ -51,7 +51,28 @@ Through this expansion, PortBench aims to become a comprehensive benchmark for e
 
 
 ## Usage
-`hello`
+`python main.py`
+
+## Parameters
+- `assets`, default=`BND`,`GSG`,`VTI`, type=list, options: `VEA`, `VEA`, `VWO`, `VNQ`, ..., etc
+  - Note: You may freely add any assets of your choice
+- `category`, type=string, options: `eftr`, `pfopt`
+  - `eftr`, Efficient Frontier
+  - `pfopt`, Portfolio Optimization
+- `subcategory`, type=String, options: `ef`, `vol`, `ret`, `sr`, `mdd`, `cvar`
+  - `eftr`
+    - `ef`: Select the portfolio located on the Efficient Frontier
+    - `vol`: Select the portfolio with lowest volatility
+    - `ret`: Select the portfolio with highest return
+    - `sr`: Select the portfolio with highest sharpe ratio
+  - `pfopt`
+    - `vol`: Select the portfolio with lowest volatility
+    - `ret`: Select the portfolio with highest return (e.g., Mean of Return)
+    - `sr`: Select the portfolio with highest Risk-adjust Return (e.g., Sharpe Ratio)
+    - `mdd`: Select the portfolio with lowest downside risk(e.g., Maximum Drawdown)
+    - `cvar`: Select the portfolio with lowest conditional risk(e.g., Conditional Value-at-Risk)
+- `date`, type=datetime
+  - Note: Randomly selected 5-year period between 2007-01-01 and 2020-12-31
 
 ## Citation
 
