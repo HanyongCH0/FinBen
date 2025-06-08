@@ -61,7 +61,7 @@ python main.py
 - `category`, type=string, options: `eftr`, `pfopt`
   - `eftr`, Efficient Frontier
   - `pfopt`, Portfolio Optimization
-- `subcategory`, type=String, options: `ef`, `vol`, `ret`, `sr`, `mdd`, `cvar`
+- `subcategory`, type=string, options: `ef`, `vol`, `ret`, `sr`, `mdd`, `cvar`
   - `eftr`
     - `ef`: Select the portfolio located on the Efficient Frontier
     - `vol`: Select the portfolio with lowest volatility
