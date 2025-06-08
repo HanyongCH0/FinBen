@@ -52,7 +52,7 @@ Through this expansion, PortBench aims to become a comprehensive benchmark for e
 
 ## Usage
 ```python
-python main.py
+python main.py```
 
 ## Parameters
 - `assets`, default=`BND`,`GSG`,`VTI`, type=list, options: `VEA`, `VEA`, `VWO`, `VNQ`, ..., etc
