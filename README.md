@@ -1,7 +1,8 @@
 # Evaluating LLMs Understanding of Portfolio Theory
 
 ## Example
-![image](https://github.com/user-attachments/assets/ef894538-2b9f-4c97-93c1-77599efe40dc)
+![image](https://github.com/user-attachments/assets/467b5afc-6fcc-4efa-ab73-46e86684eaaf)
+
 
 ## Abstract
 PortBench is a benchmark generation framework designed to evaluate investment decision-making capabilities based on portfolio theory.
