@@ -31,13 +31,27 @@ In addition to portfolio optimization tasks, PortBench will be expanded to cover
 Through this expansion, PortBench aims to become a comprehensive benchmark for evaluating the financial reasoning capabilities of large language models (LLMs).
 
 ## Results
-### Task1: Efficient Frontier
-![image](https://github.com/user-attachments/assets/9967ccdc-7d3f-4d03-9ecd-191d5480ede4)
+### All questions (28,500 questions)
+![image](https://github.com/user-attachments/assets/b6f45588-887a-470e-b5a8-7c861d708b8e)
 
-### Task2: Portfolio Optimization
-![image](https://github.com/user-attachments/assets/465f8212-1dee-4da1-8b2c-8cc58440bbfc)
+### Minimize volatility (5,700 questions)
+![image](https://github.com/user-attachments/assets/8929dcdd-f511-472f-9cc0-45d1bf627c78)
+
+### Maximize return  (5,700 questions)
+![image](https://github.com/user-attachments/assets/def31753-c62e-4edc-9d99-ff8b3ee0732b)
+
+### Maximize sharpe ratio (5,700 questions)
+![image](https://github.com/user-attachments/assets/6d1455ce-a9e7-448f-9c37-88bdebe28190)
+
+### Minimize MDD (5,700 questions)
+![image](https://github.com/user-attachments/assets/74f9cb00-42f4-4ed1-b812-344db1d8f542)
+
+### Minimize CVaR (5,700 questions)
+![image](https://github.com/user-attachments/assets/a611fcfc-7868-4688-92a0-7534f752a52a)
+
 
 ## Usage
+
 
 ## Citation
 
