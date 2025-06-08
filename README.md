@@ -34,19 +34,19 @@ Through this expansion, PortBench aims to become a comprehensive benchmark for e
 ### All questions (28,500 questions)
 ![image](https://github.com/user-attachments/assets/b6f45588-887a-470e-b5a8-7c861d708b8e)
 
-### Minimize volatility (5,700 questions)
+### - Minimize volatility (5,700 questions)
 ![image](https://github.com/user-attachments/assets/8929dcdd-f511-472f-9cc0-45d1bf627c78)
 
-### Maximize return  (5,700 questions)
+### - Maximize return  (5,700 questions)
 ![image](https://github.com/user-attachments/assets/def31753-c62e-4edc-9d99-ff8b3ee0732b)
 
-### Maximize sharpe ratio (5,700 questions)
+### - Maximize sharpe ratio (5,700 questions)
 ![image](https://github.com/user-attachments/assets/6d1455ce-a9e7-448f-9c37-88bdebe28190)
 
-### Minimize MDD (5,700 questions)
+### - Minimize MDD (5,700 questions)
 ![image](https://github.com/user-attachments/assets/74f9cb00-42f4-4ed1-b812-344db1d8f542)
 
-### Minimize CVaR (5,700 questions)
+### - Minimize CVaR (5,700 questions)
 ![image](https://github.com/user-attachments/assets/a611fcfc-7868-4688-92a0-7534f752a52a)
 
 
